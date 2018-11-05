@@ -1,7 +1,7 @@
 # Website Legal Templates
 
 ### What is this?
-This is a comprehensive collection of "legal documents" cloned from [legalmattic](https://github.com/Automattic/legalmattic "Legalmattic by Automattic on GitHub"). We'd like our legal documents to embody our vision of the spirit of the web--open and accessible.
+This is a comprehensive collection of legal templates for WordPress sites, cloned from [legalmattic](https://github.com/Automattic/legalmattic "Legalmattic by Automattic on GitHub") (the source of several legal documents on WordPress.com) and adapted to my needs.
 
 ### What can I do with it?
 Since these documents are licensed under a Creative Commons license (see below for more information), please feel free to re-use and edit these terms to fit your own use. We do ask for a link back so we can help share the source of this license and spread the word further.
