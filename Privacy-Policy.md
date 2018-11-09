@@ -153,8 +153,10 @@ You have several choices available when it comes to information about you:
 
 If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](mailto:YOUR-COMPANY-REPRESENTATIVE-EMAIL).
 
-Government Supervisory Authority
+**Government Supervisory Authority**
+
 Email: PRIVACY-AUTHORITY-EMAIL
+
 Phone: PRIVACY-AUTHORITY-PHONE
 
 ### Privacy Policy Changes
