@@ -1,4 +1,4 @@
-**YOUR-COMPANY-NAME** is fully committed to safeguarding your privacy. This Privacy Policy applies to information that we collect about you when you use our websites (including YOUR-COMPANY-WEB-SITE 1, YOUR-COMPANY-WEB-SITE 2, YOUR-COMPANY-WEB-SITE 3). We store and process all data in the EU in compliance with the GDPR (General Data Protection Regulation).
+**YOUR-COMPANY-NAME** is fully committed to safeguarding your privacy. This Privacy Policy applies to information that we collect about you when you use our website. We store and process all data in the EU in compliance with the GDPR (General Data Protection Regulation).
 Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
 
 [Contact us](mailto:YOUR-COMPANY-REPRESENTATIVE-EMAIL) if you have any questions or problems regarding the use of your Personal Data and we will gladly assist you.
@@ -25,6 +25,7 @@ Below we explain how we collect, use, and share information about you, along wit
 **Data Subject** – a natural person whose Personal Data is being Processed.
 **Child** – a natural person under 16 years of age.
 **We/Us** (either capitalized or not) – YOUR-COMPANY-NAME
+**Our Website** – YOUR-COMPANY-WEBSITE
 
 ### Principles We Follow for Processing Personal Data
 
@@ -71,7 +72,7 @@ We only collect information about you if we have a reason to do so (for example,
 
 It’s probably no surprise that we collect information that you provide to us. The amount and type of information depends on the context and how we use the information. Here are some examples:
 
-*   **Basic Account Information:** We ask for basic information from you in order to set up your YOUR-COMPANY-WEB-SITE account. For example, we require individuals who sign up for an YOUR-COMPANY-WEB-SITE account to provide a username and email address–and that’s it. You may provide us with more information (like your name) but we don’t require that information to create an account.
+*   **Basic Account Information:** We ask for basic information from you in order to set up your YOUR-COMPANY-WEBSITE account. For example, we require individuals who sign up for an account to provide a username and email address–and that’s it. You may provide us with more information (like your name) but we don’t require that information to create an account.
 *   **Public Profile Information:** If you have an account with us, we collect the information that you provide for your public profile. For example, if you have an account, your username is part of that public profile, along with any other information you put into your public profile, such as a photo or an “About Me” description. Your public profile information is just that–public–so please keep that in mind when deciding what information you would like to include.
 *   **Transaction and Billing Information:** If you buy something from us (a subscription to a specific plan, or a physical or digital product. For example, you will provide additional personal and payment information that is required to process the transaction and your payment, such as your name, credit card information, and contact information.
 *   **Content Information:** Depending on the Services you use, you may also provide us with information about you in draft and published content (such as for your website or your Polldaddy survey). For example, if you write a blog post that includes biographic information about you, we will have that information, and so will anyone with access to the Internet if you choose to publish the post publicly. This might be obvious to you…but it’s not to everyone!
@@ -81,14 +82,14 @@ It’s probably no surprise that we collect information that you provide to us. 
 
 We also collect some information automatically:
 
-*   **Log Information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services (for example, when you create or make changes to your YOUR-COMPANY-WEB-SITE account).
+*   **Log Information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services (for example, when you create or make changes to your account).
 *   **Usage Information:** We collect information about your usage of our Services (e.g. page views), along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, as well as get insights on how people use our Services, so we can make our Services better.
 *   **Location Information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
 *   **Information from Cookies & Other Technologies:** A cookie is a small string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. YOUR-COMPANY-NAME uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads. For more information about our use of cookies and other technologies for tracking, including how you can control the use of cookies, please see our [Cookie Policy](YOUR-COOKIE-POLICY-URL).
 
 #### _Information We Collect from Other Sources_
 
-We may also get information about you from other sources. For example, if you create or log into your YOUR-COMPANY-WEB-SITE account through another service (like Google) or if you connect your account to a social media service (like Twitter or Facebook), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available. We may also get information, such as a mailing address, from third party services about individuals who are not yet our users (…but we hope will be!), which we may use, for example, for marketing and advertising purposes like postcards and other mailers advertising our services.
+We may also get information about you from other sources. For example, if you create or log into your account through another service (like Google) or if you connect your account to a social media service (like Twitter or Facebook), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available. We may also get information, such as a mailing address, from third party services about individuals who are not yet our users (…but we hope will be!), which we may use, for example, for marketing and advertising purposes like postcards and other mailers advertising our services.
 
 ### How And Why We Process Personal Data
 
@@ -147,7 +148,7 @@ You have several choices available when it comes to information about you:
 *   **Limit the Information that You Provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services may not be accessible.
 *   **Opt-Out of Electronic Communications:** You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
 *   **Set Your Browser to Reject Cookies**.
-*   **Close Your Account:** While we’d be very sad to see you go, if you no longer want to use our Services :( :( :( :(, you can close your YOUR-COMPANY-WEB-SITE account. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above (for example, when that information is reasonably needed to comply with or demonstrate our compliance with legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+*   **Export your Data or Delete your Account and Data:** On our [Privacy Tool Page](YOUR-PRIVACY-TOOL-PAGE-URL) you can download your data or, if you no longer want to use our Services, close your account and delete your data. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above (for example, when that information is reasonably needed to comply with or demonstrate our compliance with legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
 ### Contact Information
 
