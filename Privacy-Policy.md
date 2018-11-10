@@ -6,9 +6,9 @@ Below we explain how we collect, use, and share information about you, along wit
 ### Table of Contents
 
 1. [Definitions used in this policy](#definitions)
-2. [Principles we follow for processing Personal Data](#principles)
-3. [Legal bases for processing Personal Data](#legal-bases)
-4. [Your rights regarding your Personal Data](#rights)
+2. [Principles we follow for processing Personal Data](#principles-we-follow-for-processing-personal-data)
+3. [Legal bases for processing Personal Data](#legal-bases-for-processig-personal-data)
+4. [Your rights regarding your Personal Data](#data-subjects-rights)
 5. [What information we ghater about you](#information-we-collect)
 6. [How and why we process Personal Data](#how-and-why-we-process-personal-data)
 7. [Sharing information](#sharing-information)
@@ -26,7 +26,7 @@ Below we explain how we collect, use, and share information about you, along wit
 **Child** – a natural person under 16 years of age.
 **We/Us** (either capitalized or not) – YOUR-COMPANY-NAME
 
-### <a name="principles"></a>Principles We Follow for Processing Personal Data
+### Principles We Follow for Processing Personal Data
 
 We process your Personal Data according to the following data protection principles:
 *	Processing is lawful, fair, transparent. Our Processing activities have lawful grounds. We always consider your rights before Processing Personal Data. We will provide you information regarding Processing upon request.
@@ -36,7 +36,7 @@ We process your Personal Data according to the following data protection princip
 *	We will do our best to ensure the accuracy of data.
 *	We will do our best to ensure the integrity and confidentiality of data.
 
-### <a name="legal-bases"></a>Legal Bases for Processig Personal Data
+### Legal Bases for Processig Personal Data
 
 We process your Personal Data on the grounds that:
 *	The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account (for example, in order to enable access to our website);
@@ -45,7 +45,7 @@ We process your Personal Data on the grounds that:
 *	We have a legitimate interest in using your information, for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services;
 *	You have given us your consent, for example, before we place certain cookies on your device and access and analyze them later on, as described in our [Cookie Policy](YOUR-COOKIE-POLICY-URL).
 
-### <a name="rights"></a>Data Subject’s Rights
+### Data Subject’s Rights
 
 If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the following rights:
 
@@ -155,14 +155,12 @@ If you have a question about this Privacy Policy, or you would like to contact u
 
 **Government Supervisory Authority**
 
-Email: PRIVACY-AUTHORITY-EMAIL
-
-Phone: PRIVACY-AUTHORITY-PHONE
+Email: PRIVACY-AUTHORITY-EMAIL  
+Phone: PRIVACY-AUTHORITY-PHONE  
 
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, YOUR-COMPANY-NAME may change its Privacy Policy from time to time. YOUR-COMPANY-NAME encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or our blog), or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
 
-Date: PRIVACY-POLICY-DATE
-
-Version: PRIVACY-POLICY-VERSION
+Date: PRIVACY-POLICY-DATE  
+Version: PRIVACY-POLICY-VERSION  
