@@ -6,7 +6,7 @@ Cookies are small pieces of data, stored in text files, that are stored on your 
 
 ### **How We Use Cookies**
 
-We use cookies for a number of different purposes. Some cookies are necessary for technical reasons; some enable a personalized experience for both visitors and registered users; and some allow the display of advertising from selected third party networks. Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the "like" or "follow" button on a post, for example). Many of the cookies we use are only set if you are a registered YOUR-COMPANY-WEB-SITE user (so you don’t have to log in every time, for example), while others are set whenever you visit one of our websites, irrespective of whether you have an account. For more information on the choices you have about the cookies we use, please see the Controlling Cookies section below.
+We use cookies for a number of different purposes. Some cookies are necessary for technical reasons; some enable a personalized experience for both visitors and registered users; and some allow the display of advertising from selected third party networks. Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the "like" or "follow" button on a post, for example). Many of the cookies we use are only set if you are a registered YOUR-COMPANY-WEBSITE user (so you don’t have to log in every time, for example), while others are set whenever you visit one of our websites, irrespective of whether you have an account. For more information on the choices you have about the cookies we use, please see the Controlling Cookies section below.
 
 ### **Types of Cookies**
 
