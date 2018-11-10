@@ -1,12 +1,18 @@
 # Website Legal Templates
 
-### What is this?
-This is a comprehensive collection of legal templates for WordPress sites, cloned from [legalmattic](https://github.com/Automattic/legalmattic "Legalmattic by Automattic on GitHub") (the source of several legal documents on WordPress.com) and adapted to my needs.
+Comprehensive collection of legal pages compliant with the General Data Protection Regulation (GDPR) and the ePrivacy Directive (Cookie Law).
 
-### What can I do with it?
-Since these documents are licensed under a Creative Commons license (see below for more information), please feel free to re-use and edit these terms to fit your own use. We do ask for a link back so we can help share the source of this license and spread the word further.
+### Author
+* [@nicbeltramelli](https://twitter.com/NicBeltramelli)
 
-If you notice any typos or would like to suggest any changes, please contribute a pull request.
+### What is this
+These documents are derived from [legalmattic](https://github.com/Automattic/legalmattic "Legalmattic by Automattic on GitHub") (the source of several legal documents on WordPress.com). They have been adapted to better meet the requirements of the GDPR and the Cookie Law for an average WordPress website that sells products or services. They are licensed under a Creative Commons license and you are free to re-use and edit these terms to fit your own needs. 
+
+### How to use it
+Search and replace the placeholders across the legal templates with your own values.
 
 ### License
-As noted in our license file, the content here is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/). Please feel free to make alterations via pull-request.
+* [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/).
+
+### Credits
+* [legalmattic](https://github.com/Automattic/legalmattic "Legalmattic by Automattic on GitHub") (the source of several legal documents on WordPress.com).
