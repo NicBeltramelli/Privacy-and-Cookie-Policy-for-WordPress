@@ -1,4 +1,4 @@
-# Website Legal Templates
+# WordPress GDPR Legal Templates
 
 Legal templates for WordPress websites to help be compliant with the General Data Protection Regulation (GDPR) and the ePrivacy Directive (Cookie Law).
 
