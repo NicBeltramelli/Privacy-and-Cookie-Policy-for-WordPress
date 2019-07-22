@@ -4,11 +4,11 @@ Our [Privacy Policy](YOUR-PRIVACY-POLICY-URL) explains our principles when it co
 
 Cookies are small pieces of data, stored in text files, that are stored on your computer or other device when websites are loaded in a browser. They are widely used to "remember" you and your preferences, either for a single visit (through a "session cookie") or for multiple repeat visits (using a "persistent cookie"). They ensure a consistent and efficient experience for visitors, and perform essential functions such as allowing users to register and remain logged in. Cookies may be set by the site that you are visiting (known as "first party cookies"), or by third parties, such as those who serve content or provide advertising or analytics services on the website ("third party cookies"). Both websites and HTML emails may also contain other tracking technologies such as "web beacons" or "pixels." These are typically small transparent images that provide us with statistics, for similar purposes as cookies. They are often used in conjunction with cookies, though they are not stored on your computer in the same way. As a result, if you disable cookies, web beacons may still load, but their functionality will be restricted.
 
-### **How We Use Cookies**
+### How We Use Cookies
 
 We use cookies for a number of different purposes. Some cookies are necessary for technical reasons; some enable a personalized experience for both visitors and registered users; and some allow the display of advertising from selected third party networks. Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the "like" or "follow" button on a post, for example). Many of the cookies we use are only set if you are a registered YOUR-COMPANY-WEBSITE user (so you don’t have to log in every time, for example), while others are set whenever you visit one of our websites, irrespective of whether you have an account. For more information on the choices you have about the cookies we use, please see the Controlling Cookies section below.
 
-### **Types of Cookies**
+### Types of Cookies
 
 The table below explains the types of cookies we use on our websites and why we use them.
 
@@ -20,7 +20,7 @@ The table below explains the types of cookies we use on our websites and why we 
 |Analytics and Performance|Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
 |Third Party / Embedded Content|Our sites make use of different third party applications and services to enhance the experience of website visitors. These include: [Automattic](https://automattic.com/) (for features such as WooCommerce, Gravatar, Akismet and Jetpack), [Google](https://google.com/) (for analytics and advertising), social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from YouTube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.|
 
-#### **Cookies from Third Parties**
+#### Cookies from Third Parties
 
 We operate in partnership with third party vendors. Third Parties cookies enable us and our partners to offer services and to personalize them based on user's information. Below is a list of our partners, along with information on the cookies that each partner sets. Your choices to control cookies are described below.
 
