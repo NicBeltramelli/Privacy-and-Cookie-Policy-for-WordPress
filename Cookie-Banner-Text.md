@@ -1,11 +1,11 @@
 ### Message:
-This website use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in the cookie policy. By closing this banner, scrolling this page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+This website use cookies, by continuing or closing this banner you agree to their use.
 
-### Learn More link:
+### Cookie policy URL:
 YOUR-COOKIE-POLICY-URL
 
-### Policy link text:
-Cookie Policy
+### Cookie policy link text:
+Learn more
 
 ### Dismiss button text:
-Allow Cookies
+Got It!
