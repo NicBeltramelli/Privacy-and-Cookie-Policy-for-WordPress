@@ -20,7 +20,7 @@ The table below explains the types of cookies we use on our websites and why we 
 |Analytics and Performance|Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
 |Third Party / Embedded Content|Our sites make use of different third party applications and services to enhance the experience of website visitors. These include: [Automattic](https://automattic.com/) (for features such as WooCommerce, Gravatar, Akismet and Jetpack), [Google](https://google.com/) (for analytics and advertising), social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from Youtube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.|
 
-#### **Cookies from Third Parties** 
+#### **Cookies from Third Parties**
 
 We operate in partnership with third party vendors. Third Parties cookies enable us and our partners to offer services and to personalize them based on user's information. Below is a list of our partners, along with information on the cookies that each partner sets. Your choices to control cookies are described below.
 
@@ -36,7 +36,7 @@ Visitors may wish to restrict the use of cookies or completely prevent them from
 
 ### Consent for Cookies
 
-You may see a “cookie banner” on our websites, particularly if you are in the European Union. If so, then we do not allow our partners to set cookies before you accept, except for those exempt from the consent requirement and therefore not subject to preventive blocking (strictly necessary technical cookies and statistical anonymized cookies). When you consent, we and our partners may set third party cookies in order to, for example, provide more engaging advertising to users, remember the most recent searches or interactions, or improve campaign performance reports. We’ll display the banner to you periodically, just in case you change your mind.
+You may see a “cookie banner” on our websites, particularly if you are in the European Union. If so, then we do not allow our partners to set cookies before you accept, except for those exempt from the consent requirement and therefore not subject to preventive blocking (strictly necessary technical cookies and statistical anonymized cookies). When you consent, we and our partners may set third party cookies in order to, for example, provide more engaging advertising to users, remember the most recent searches or interactions, or improve campaign performance reports.
 
 ### Contact Us
 
