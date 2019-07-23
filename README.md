@@ -1,7 +1,9 @@
-# Privacy and Cookie Policy for WordPress sites
+# Privacy and Cookie Policy for WordPress websites
+
+Privacy and Cookie Policy templates, compliant with the General Data Protection Regulation (GDPR) and the ePrivacy Directive (Cookie Law), for WordPress websites.
 
 ### **Warning!**  
-These templates do not guarantee any kind of compliance and it is up to you to take the responsibility for what you do with personal data and how you respect the principles of the GDPR and the Cookie Law.
+These templates do not provide any kind of legal guarantee of compliance and it is up to you to take the responsibility for what you do with personal data and how you respect the principles of the GDPR and the Cookie Law.
 
 ### What is this
 They derive from [legalmattic](https://github.com/Automattic/legalmattic) (the source of several legal documents on WordPress.com). They are licensed under a Creative Commons license and you are free to re-use and edit them to fit your own needs. 
