@@ -20,12 +20,12 @@ Di seguito è spiegato come raccogliamo, utilizziamo e condividiamo le informazi
 
 ### Definizioni
 
-**Dato Personale** – ogni informazione utile a identificare o rendere identificabile, direttamente o indirettamente, una persona fisica.
-**Trattamento** – ogni operazione o insieme di operazioni eseguita/e su un Dato Personale o su un insieme di Dati Personali.
-**Soggetto Interessato** – una persona fisica i cui Dati Personali vengono trattati.
-**Minore** – una persona fisica al di sotto dei 16 anni di età.
-**Noi** (maiuscolo o meno) – YOUR-COMPANY-NAME
-**Il nostro sito web** – YOUR-COMPANY-WEBSITE
+**Dato Personale** – ogni informazione utile a identificare o rendere identificabile, direttamente o indirettamente, una persona fisica.  
+**Trattamento** – ogni operazione o insieme di operazioni eseguita/e su un Dato Personale o su un insieme di Dati Personali.  
+**Soggetto Interessato** – una persona fisica i cui Dati Personali vengono trattati.  
+**Minore** – una persona fisica al di sotto dei 16 anni di età.  
+**Noi** (maiuscolo o meno) – YOUR-COMPANY-NAME  
+**Il nostro sito web** – YOUR-COMPANY-WEBSITE  
 
 ### Prìncipi
 
@@ -40,10 +40,10 @@ Noi trattiamo i tuoi Dati Personali secondo i seguenti prìncipi sulla protezion
 ### Liceità del trattamento
 
 Noi trattiamo i tuoi Dati Personali in base alla sussistenza delle seguenti condizioni:
-*	Il trattamento è necessario per adempiere ai nostri impegni nei confronti dell'utente in base ai nostri Termini di servizio o altre forme di accordo o è necessario per amministrare l'account (ad esempio, al fine di consentire l'accesso al nostro sito Web);
-*	Il trattamento è necessario per il rispetto di un obbligo legale;
+*	Il trattamento è necessario per adempiere ai nostri impegni nei confronti dell'utente in base ai nostri Termini di servizio o altre forme di accordo o è necessario per amministrare l'account (ad esempio, al fine di consentire l'accesso al nostro sito Web).
+*	Il trattamento è necessario per il rispetto di un obbligo legale.
 *	Il trattamento è necessario per proteggere i tuoi interessi vitali o quelli di un'altra persona;
-*	Abbiamo un legittimo interesse nell'utilizzare le tue informazioni, ad esempio, per fornire e aggiornare i nostri Servizi, per migliorare i nostri Servizi in modo da offrirti una migliore esperienza d'uso, per salvaguardare i nostri Servizi, per comunicare con te, per misurare, valutare e migliorare l'efficacia della nostra pubblicità e per comprendere meglio la conservazione e il tasso di abbandono dell'utente, per monitorare e prevenire eventuali problemi con i nostri Servizi;
+*	Abbiamo un legittimo interesse nell'utilizzare le tue informazioni, ad esempio, per fornire e aggiornare i nostri Servizi, per migliorare i nostri Servizi in modo da offrirti una migliore esperienza d'uso, per salvaguardare i nostri Servizi, per comunicare con te, per misurare, valutare e migliorare l'efficacia della nostra pubblicità e per comprendere meglio la conservazione e il tasso di abbandono dell'utente, per monitorare e prevenire eventuali problemi con i nostri Servizi.
 *	Ci hai fornito il tuo consenso, ad esempio, prima di inserire determinati cookie sul tuo dispositivo e di accedervi e analizzarli in seguito, come descritto nella nostra [Informativa sui Cookie](YOUR-COOKIE-POLICY-URL).
 
 ### Diritti dell'interessato
@@ -97,12 +97,12 @@ Noi abbiamo la possibilità di ottenere informazioni su di te anche da altre fon
 
 Noi utilizziamo le informazioni su di te come sopra menzionato e per gli scopi elencati di seguito:
 
-* Per fornire i nostri servizi (ad esempio, per impostare e mantenere il tuo account o addebitarti uno qualsiasi dei nostri servizi a pagamento);
-* Per sviluppare e migliorare ulteriormente i nostri servizi;
-* Per monitorare e analizzare le tendenze e capire meglio come gli utenti interagiscono con i nostri servizi, il che ci aiuta a migliorare i nostri servizi e a renderli più efficaci e semplici da utilizzare;
-* Per misurare, valutare e migliorare l'efficacia della nostra pubblicità e comprendere meglio la fidelizzazione e l'utilizzo dei servizi da parte degli utenti (ad esempio, possiamo analizzare quante persone hanno acquistato un piano dopo aver ricevuto un messaggio di marketing o le caratteristiche utilizzate da coloro che continuano a utilizzare i nostri servizi dopo un determinato periodo di tempo);
-* Per monitorare e prevenire eventuali problemi con i nostri servizi, per proteggere la sicurezza dei nostri servizi, per rilevare e prevenire transazioni fraudolente e altre attività illegali, per combattere lo spam e proteggere i diritti e le proprietà di YOUR-COMPANY-NAME e di altri, che può risultare nel nostro rifiuto riguardo a transazioni o erogazione dei nostri Servizi;
-* Per comunicare con te (ad esempio tramite e-mail, riguardo a promozioni offerte da YOUR-COMPANY-NAME e da altri che riteniamo possano interessarti), per sollecitare il tuo feedback o tenerti aggiornato su YOUR-COMPANY-NAME e sui nostri prodotti/servizi;
+* Per fornire i nostri servizi (ad esempio, per impostare e mantenere il tuo account o addebitarti uno qualsiasi dei nostri servizi a pagamento).
+* Per sviluppare e migliorare ulteriormente i nostri servizi.
+* Per monitorare e analizzare le tendenze e capire meglio come gli utenti interagiscono con i nostri servizi, il che ci aiuta a migliorare i nostri servizi e a renderli più efficaci e semplici da utilizzare.
+* Per misurare, valutare e migliorare l'efficacia della nostra pubblicità e comprendere meglio la fidelizzazione e l'utilizzo dei servizi da parte degli utenti (ad esempio, possiamo analizzare quante persone hanno acquistato un piano dopo aver ricevuto un messaggio di marketing o le caratteristiche utilizzate da coloro che continuano a utilizzare i nostri servizi dopo un determinato periodo di tempo).
+* Per monitorare e prevenire eventuali problemi con i nostri servizi, per proteggere la sicurezza dei nostri servizi, per rilevare e prevenire transazioni fraudolente e altre attività illegali, per combattere lo spam e proteggere i diritti e le proprietà di YOUR-COMPANY-NAME e di altri, che può risultare nel nostro rifiuto riguardo a transazioni o erogazione dei nostri Servizi.
+* Per comunicare con te (ad esempio tramite e-mail, riguardo a promozioni offerte da YOUR-COMPANY-NAME e da altri che riteniamo possano interessarti), per sollecitare il tuo feedback o tenerti aggiornato su YOUR-COMPANY-NAME e sui nostri prodotti/servizi.
 * Per personalizzare la tua esperienza di utilizzo dei nostri servizi, per orientare le nostre comunicazioni di marketing a gruppi di nostri utenti (ad esempio, quelli che hanno un determinato piano con noi o che sono stati nostri utenti per un certo periodo di tempo) e per proporre annunci pubblicitari pertinenti.
 
 ### Condivisione delle informazioni

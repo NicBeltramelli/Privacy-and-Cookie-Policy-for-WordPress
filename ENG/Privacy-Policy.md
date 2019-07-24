@@ -20,12 +20,12 @@ Below we explain how we collect, use, and share information about you, along wit
 
 ### Definitions
 
-**Personal Data** – any information relating to an identified or identifiable natural person.
-**Processing** – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.
-**Data Subject** – a natural person whose Personal Data is being Processed.
-**Child** – a natural person under 16 years of age.
-**We/Us** (either capitalized or not) – YOUR-COMPANY-NAME
-**Our Website** – YOUR-COMPANY-WEBSITE
+**Personal Data** – any information relating to an identified or identifiable natural person.  
+**Processing** – any operation or set of operations which is performed on Personal Data or on sets of Personal Data.  
+**Data Subject** – a natural person whose Personal Data is being Processed.  
+**Child** – a natural person under 16 years of age.  
+**We/Us** (either capitalized or not) – YOUR-COMPANY-NAME  
+**Our Website** – YOUR-COMPANY-WEBSITE  
 
 ### Principles We Follow for Processing Personal Data
 
@@ -40,10 +40,10 @@ We process your Personal Data according to the following data protection princip
 ### Legal Bases for Processig Personal Data
 
 We process your Personal Data on the grounds that:
-*	The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account (for example, in order to enable access to our website);
-*	The use is necessary for compliance with a legal obligation;
-*	The use is necessary in order to protect your vital interests or those of another person;
-*	We have a legitimate interest in using your information, for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services;
+*	The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account (for example, in order to enable access to our website).
+*	The use is necessary for compliance with a legal obligation.
+*	The use is necessary in order to protect your vital interests or those of another person.
+*	We have a legitimate interest in using your information, for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services.
 *	You have given us your consent, for example, before we place certain cookies on your device and access and analyze them later on, as described in our [Cookie Policy](YOUR-COOKIE-POLICY-URL).
 
 ### Data Subject’s Rights
@@ -97,12 +97,12 @@ We may also get information about you from other sources. For example, if you cr
 
 We use information about you as mentioned above and for the purposes listed below:
 
-*   To provide our Services (for example, to set up and maintain your account or charge you for any of our paid Services);
-*   To further develop and improve our Services;
-*   To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use;
-*   To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition (for example, we may analyze how many individuals purchased a plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time);
-*   To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of YOUR-COMPANY-NAME and others, which may result in us declining a transaction or the use of our Services;
-*   To communicate with you (for example through an email, about offers and promotions offered by YOUR-COMPANY-NAME and others we think will be of interest to you), solicit your feedback, or keep you up to date on YOUR-COMPANY-NAME and our products;
+*   To provide our Services (for example, to set up and maintain your account or charge you for any of our paid Services).
+*   To further develop and improve our Services.
+*   To monitor and analyze trends and better understand how users interact with our Services, which helps us improve our Services and make them easier to use.
+*   To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition (for example, we may analyze how many individuals purchased a plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time).
+*   To monitor and prevent any problems with our Services, protect the security of our Services, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of YOUR-COMPANY-NAME and others, which may result in us declining a transaction or the use of our Services.
+*   To communicate with you (for example through an email, about offers and promotions offered by YOUR-COMPANY-NAME and others we think will be of interest to you), solicit your feedback, or keep you up to date on YOUR-COMPANY-NAME and our products.
 *   To personalize your experience using our Services, target our marketing messages to groups of our users (for example, those who have a particular plan with us or have been our user for a certain length of time), and serve relevant advertisements.
 
 ### Sharing Information
