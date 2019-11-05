@@ -42,7 +42,7 @@ Noi trattiamo i tuoi Dati Personali secondo i seguenti prìncipi sulla protezion
 Noi trattiamo i tuoi Dati Personali in base alla sussistenza delle seguenti condizioni:
 *	Il trattamento è necessario per adempiere ai nostri impegni nei confronti dell'utente in base ai nostri Termini di servizio o altre forme di accordo o è necessario per amministrare l'account (ad esempio, al fine di consentire l'accesso al nostro sito Web).
 *	Il trattamento è necessario per il rispetto di un obbligo legale.
-*	Il trattamento è necessario per proteggere i tuoi interessi vitali o quelli di un'altra persona;
+*	Il trattamento è necessario per proteggere i tuoi interessi vitali o quelli di un'altra persona.
 *	Abbiamo un legittimo interesse nell'utilizzare le tue informazioni, ad esempio, per fornire e aggiornare i nostri Servizi, per migliorare i nostri Servizi in modo da offrirti una migliore esperienza d'uso, per salvaguardare i nostri Servizi, per comunicare con te, per misurare, valutare e migliorare l'efficacia della nostra pubblicità e per comprendere meglio la conservazione e il tasso di abbandono dell'utente, per monitorare e prevenire eventuali problemi con i nostri Servizi.
 *	Ci hai fornito il tuo consenso, ad esempio, prima di inserire determinati cookie sul tuo dispositivo e di accedervi e analizzarli in seguito, come descritto nella nostra [Informativa sui Cookie](YOUR-COOKIE-POLICY-URL).
 
