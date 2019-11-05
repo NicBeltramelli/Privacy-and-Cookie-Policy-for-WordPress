@@ -6,7 +6,7 @@ Di seguito è spiegato come raccogliamo, utilizziamo e condividiamo le informazi
 ### Sommario
 
 1. [Definizioni utilizzate in questa Informativa sulla Privacy](#definizioni)
-2. [Prìncipi](#prìncipi)
+2. [Princìpi](#prìncipi)
 3. [Liceità del trattamento](#liceità-del-trattamento)
 4. [Diritti dell'interessato](#diritti-dell-interessato)
 5. [Quali informazioni raccogliamo](#quali-informazioni-raccogliamo)
