@@ -6,7 +6,7 @@ Di seguito è spiegato come raccogliamo, utilizziamo e condividiamo le informazi
 ### Sommario
 
 1. [Definizioni utilizzate in questa Informativa sulla Privacy](#definizioni)
-2. [Princìpi](#prìncipi)
+2. [Princìpi](#princìpi)
 3. [Liceità del trattamento](#liceità-del-trattamento)
 4. [Diritti dell'interessato](#diritti-dell-interessato)
 5. [Quali informazioni raccogliamo](#quali-informazioni-raccogliamo)
@@ -27,9 +27,9 @@ Di seguito è spiegato come raccogliamo, utilizziamo e condividiamo le informazi
 **Noi** (maiuscolo o meno) – YOUR-COMPANY-NAME  
 **Il nostro sito web** – YOUR-COMPANY-WEBSITE  
 
-### Prìncipi
+### Princìpi
 
-Noi trattiamo i tuoi Dati Personali secondo i seguenti prìncipi sulla protezione dei dati:
+Noi trattiamo i tuoi Dati Personali secondo i seguenti princìpi sulla protezione dei dati:
 *	Il trattamento è lecito, equo e trasparente. Le nostre attività di trattamento hanno motivi legittimi. Noi consideriamo sempre i diritti dell'interessato prima di trattare i Dati Personali. Su richiesta forniamo le informazioni riguardo il trattamento dei dati.
 *	Il trattamento è limitato allo scopo. Le nostre attività di trattamento sono adeguate allo scopo per il quale i Dati Personali sono stati raccolti.
 *	Il trattamento avviene con il minimo dei dati necessari. Raccogliamo e trattiamo solo la quantità minima di Dati Personali necessari allo scopo.
