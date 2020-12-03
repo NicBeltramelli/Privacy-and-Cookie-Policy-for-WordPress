@@ -10,15 +10,16 @@ Noi utilizziamo i cookie per diversi scopi. Alcuni cookie sono necessari per mot
 
 ### Tipologie di Cookie
 
-La tabella seguente spiega i tipi di cookie che utilizziamo sui nostri siti Web e perché li utilizziamo.
-
-|Categoria di cookie|Perché utilizziamo questi cookie|
-|---|---|
-|Strettamente necessari|Questi cookie sono essenziali affinché i nostri siti web possano svolgere le loro funzioni di base. Questi includono quelli necessari per consentire agli utenti registrati di autenticarsi ed eseguire funzioni relative al proprio account, nonché di salvare il contenuto di "carrelli" virtuali su siti che dispongono di funzionalità di e-commerce.|
-|Funzionali|Questi cookie sono utilizzati per memorizzare le preferenze impostate dagli utenti come il nome dell'account, la lingua e la posizione.|
-|Sicurezza|Utilizziamo questi cookie per aiutare a identificare e prevenire potenziali rischi per la sicurezza.|
-|Analisi e Prestazioni|I cookie relativi alle prestazioni raccolgono informazioni su come gli utenti interagiscono con i nostri siti web, tra cui quali pagine vengono visitate maggiormente, così come altri dati analitici. Usiamo questi dettagli per migliorare il modo in cui i nostri siti web funzionano e per capire come gli utenti interagiscono con loro.|
-|Terze parti / Contenuti incorporati|I nostri siti web utilizzano diverse applicazioni e servizi di terze parti per migliorare l'esperienza dei visitatori. Questi includono: [Automattic](https://automattic.com/) (per funzionalità come WooCommerce, Gravatar, Akismet e Jetpack), [Google](https://google.com/) (per analisi e pubblicità), piattaforme di social media come Facebook e Twitter (attraverso l'utilizzo di pulsanti di condivisione), o contenuti incorporati da YouTube e Vimeo. Di conseguenza, i cookie possono essere impostati da queste terze parti e utilizzati da essi per monitorare la tua attività online. Non abbiamo alcun controllo diretto sulle informazioni che vengono raccolte da questi cookie.|
+**Strettamente necessari**  
+Questi cookie sono essenziali affinché i nostri siti web possano svolgere le loro funzioni di base. Questi includono quelli necessari per consentire agli utenti registrati di autenticarsi ed eseguire funzioni relative al proprio account, nonché di salvare il contenuto di "carrelli" virtuali su siti che dispongono di funzionalità di e-commerce.  
+**Funzionali**  
+Questi cookie sono utilizzati per memorizzare le preferenze impostate dagli utenti come il nome dell'account, la lingua e la posizione.  
+**Sicurezza**  
+Utilizziamo questi cookie per aiutare a identificare e prevenire potenziali rischi per la sicurezza.  
+**Analisi e Prestazioni**  
+I cookie relativi alle prestazioni raccolgono informazioni su come gli utenti interagiscono con i nostri siti web, tra cui quali pagine vengono visitate maggiormente, così come altri dati analitici. Usiamo questi dettagli per migliorare il modo in cui i nostri siti web funzionano e per capire come gli utenti interagiscono con loro.  
+**Terze parti / Contenuti incorporati**  
+I nostri siti web utilizzano diverse applicazioni e servizi di terze parti per migliorare l'esperienza dei visitatori. Questi includono: [Automattic](https://automattic.com/) (per funzionalità come WooCommerce, Gravatar, Akismet e Jetpack), [Google](https://google.com/) (per analisi e pubblicità), piattaforme di social media come Facebook e Twitter (attraverso l'utilizzo di pulsanti di condivisione), o contenuti incorporati da YouTube e Vimeo. Di conseguenza, i cookie possono essere impostati da queste terze parti e utilizzati da essi per monitorare la tua attività online. Non abbiamo alcun controllo diretto sulle informazioni che vengono raccolte da questi cookie.
 
 #### Cookie di Terze Parti
 

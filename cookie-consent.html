@@ -1,0 +1,27 @@
+// header script
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+// footer script
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#37cd8f",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "edgeless",
+  "position": "bottom-left",
+  "content": {
+    "message": "Questo sito web utilizza i cookie, continuando o chiudendo questo messaggio acconsenti al loro uso.",
+    "dismiss": "ACCONSENTO",
+    "link": "Maggiori informazioni",
+    "href": "https://www.cookiesandyou.com/"
+  }
+});
+</script>

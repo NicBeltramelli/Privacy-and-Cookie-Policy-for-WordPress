@@ -5,18 +5,18 @@ Di seguito è spiegato come raccogliamo, utilizziamo e condividiamo le informazi
 
 ### Sommario
 
-1. [Definizioni utilizzate in questa Informativa sulla Privacy](#definizioni)
-2. [Princìpi](#principi)
-3. [Liceità del trattamento](#liceita-del-trattamento)
-4. [Diritti dell'interessato](#diritti-dell-interessato)
-5. [Quali informazioni raccogliamo](#quali-informazioni-raccogliamo)
-6. [Come e perché trattiamo Dati Personali](#come-e-perché-trattiamo-dati-personali)
-7. [Condivisione delle informazioni](#condivisione-delle-informazioni)
-8. [Per quanto tempo conserviamo le informazioni](#per-quanto-tempo-conserviamo-le-informazioni)
-9. [Sicurezza](#sicurezza)
-10. [Opzioni](#opzioni)
-11. [Informazioni di contatto](#informazioni-di-contatto)
-12. [Modifiche](#modifiche)
+1. Definizioni utilizzate in questa Informativa sulla Privacy
+2. Princìpi
+3. Liceità del trattamento
+4. Diritti dell'interessato
+5. Quali informazioni raccogliamo
+6. Come e perché trattiamo Dati Personali
+7. Condivisione delle informazioni
+8. Per quanto tempo conserviamo le informazioni
+9. Sicurezza
+10. Opzioni
+11. Informazioni di contatto
+12. Modifiche
 
 ### Definizioni
 
@@ -147,7 +147,7 @@ Hai diverse opzioni disponibili quando si tratta di informazioni su di te:
 *   **Limitare le informazioni che ci fornisci:** se hai un account con noi, puoi scegliere di non fornire le informazioni opzionali relative al tuo account, le informazioni sul profilo e i dati di transazione e fatturazione. Tieni presente che se non fornisci queste informazioni alcune funzionalità dei nostri Servizi potrebbero non essere accessibili.
 *   **Facoltà di scelta in merito alle comunicazioni elettroniche:** hai sempre la facoltà di scegliere di non ricevere messaggi promozionali da noi semplicemente seguendo le istruzioni incluse negli eventuali messaggi. Se disattivi i messaggi promozionali, potremmo comunque inviarti altre comunicazioni, come ad esempio quelle relative al tuo account e alle note legali.
 *   **Configurare il tuo browser per rifiutare i cookies**.
-*   **Esportare i tuoi dati o cancellare il tuo account e i tuoi dati:** nel nostro sito web, alla pagina [Strumenti sulla Privacy](YOUR-PRIVACY-TOOLS-PAGE-URL) puoi scaricare i tuoi dati o, se non vuoi più utilizzare i nostri servizi, puoi chiudere il tuo account ed elimina i tuoi dati. Tieni presente che potremmo continuare a conservare i tuoi dati dopo la chiusura del tuo account, come descritto in precedenza nella sezione "Per quanto tempo conserviamo le informazioni" (ad esempio, nel caso in cui tali informazioni siano ragionevolmente necessarie per essere conformi o dimostrare la nostra conformità agli obblighi legali o siano ragionevolmente necessarie per tutelare i nostri legittimi interessi commerciali.
+*   **Esportare i tuoi dati o cancellare il tuo account e i tuoi dati:** se non vuoi più utilizzare i nostri servizi, puoi chiudere il tuo account ed eliminare i tuoi dati. Tieni presente che potremmo continuare a conservare i tuoi dati dopo la chiusura del tuo account, come descritto in precedenza nella sezione "Per quanto tempo conserviamo le informazioni" (ad esempio, nel caso in cui tali informazioni siano ragionevolmente necessarie per essere conformi o dimostrare la nostra conformità agli obblighi legali o siano ragionevolmente necessarie per tutelare i nostri legittimi interessi commerciali.
 
 ### Informazioni di contatto
 
@@ -163,4 +163,3 @@ Telefono: PRIVACY-AUTHORITY-PHONE
 Sebbene la maggior parte delle modifiche possa essere di minore importanza, YOUR-COMPANY-NAME potrebbe effettuare variazioni alla presente Informativa sulla Privacy.  YOUR-COMPANY-NAME incoraggia i visitatori a controllare frequentemente questa pagina per prendere visione delle eventuali modifiche alla presente Informativa sulla Privacy. Nel caso apportassimo delle modifiche, ti informeremo aggiornando il numero di versione sottostante e, in alcuni casi, potremmo fornire ulteriore avvisi (come ad esempio aggiungere una dichiarazione nella pagina principale del nostro sito web o nel nostro blog), o inviarti una comunicazione tramite e-mail o attraverso il pannello di amministrazione). L'ulteriore utilizzo dei nostri servizi dopo una eventuale modifica alla nostra Informativa sulla Privacy sarà soggetto a tale modifica. Grazie per l'attenzione.
 
 Data: PRIVACY-POLICY-DATE  
-Versione: PRIVACY-POLICY-VERSION  

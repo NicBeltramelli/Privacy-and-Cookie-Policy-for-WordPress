@@ -5,18 +5,18 @@ Below we explain how we collect, use, and share information about you, along wit
 
 ### Table of Contents
 
-1. [Definitions used in this policy](#definitions)
-2. [Principles we follow for processing Personal Data](#principles-we-follow-for-processing-personal-data)
-3. [Legal bases for processing Personal Data](#legal-bases-for-processig-personal-data)
-4. [Your rights regarding your Personal Data](#data-subjects-rights)
-5. [What information we ghater about you](#information-we-collect)
-6. [How and why we process Personal Data](#how-and-why-we-process-personal-data)
-7. [Sharing information](#sharing-information)
-8. [How long we keep information](#how-long-we-keep-information)
-9. [Security](#security)
-10. [Choices](#choices)
-11. [Contact information](#contact-information)
-12. [Privacy Policy changes](#privacy-policy-changes)
+1. Definitions used in this policy
+2. Principles we follow for processing Personal Data
+3. Legal bases for processing Personal Data
+4. Your rights regarding your Personal Data
+5. What information we ghater about you
+6. How and why we process Personal Data
+7. Sharing information
+8. How long we keep information
+9. Security
+10. Choices
+11. Contact information
+12. Privacy Policy changes
 
 ### Definitions
 
@@ -62,7 +62,7 @@ If you are located in certain countries, including those that fall under the sco
 *	Right for the help of supervisory authority – meaning you have the right for the help of a supervisory authority and the right for other legal remedies such as claiming damages.
 *	Right to withdraw consent – you have the right withdraw any given consent for Processing of your Personal Data.
 
-You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to do that, or you would like to contact us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us. EU individuals also have the right to make a complaint to a government supervisory authority.
+You can usually access, correct, or delete your personal data using your account settings or contacting us about one of the other rights, scroll down to How to Reach Us to, well, find out how to reach us. EU individuals also have the right to make a complaint to a government supervisory authority.
 
 ### Information We Collect
 
@@ -148,7 +148,7 @@ You have several choices available when it comes to information about you:
 *   **Limit the Information that You Provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services may not be accessible.
 *   **Opt-Out of Electronic Communications:** You may opt out of receiving promotional messages from us. Just follow the instructions in those messages. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices.
 *   **Set Your Browser to Reject Cookies**.
-*   **Export your Data or Delete your Account and Data:** On our [Privacy Tools Page](YOUR-PRIVACY-TOOLS-PAGE-URL) you can download your data or, if you no longer want to use our Services, close your account and delete your data. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above (for example, when that information is reasonably needed to comply with or demonstrate our compliance with legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+*   **Export your Data or Delete your Account and Data:** If you no longer want to use our Services, you can close your account and delete your data. Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above (for example, when that information is reasonably needed to comply with or demonstrate our compliance with legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
 
 ### Contact Information
 
@@ -164,4 +164,3 @@ Phone: PRIVACY-AUTHORITY-PHONE
 Although most changes are likely to be minor, YOUR-COMPANY-NAME may change its Privacy Policy from time to time. YOUR-COMPANY-NAME encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or our blog), or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy. That’s it! Thanks for reading.
 
 Date: PRIVACY-POLICY-DATE  
-Version: PRIVACY-POLICY-VERSION  

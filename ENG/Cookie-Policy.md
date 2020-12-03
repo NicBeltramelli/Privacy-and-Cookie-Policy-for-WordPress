@@ -10,15 +10,16 @@ We use cookies for a number of different purposes. Some cookies are necessary fo
 
 ### Types of Cookies
 
-The table below explains the types of cookies we use on our websites and why we use them.
-
-|Category of cookies|Why we use these cookies|
-|---|---|
-|Strictly Necessary|These cookies are essential for websites on our services to perform their basic functions. These include those required to allow registered users to authenticate and perform account related functions, as well as to save the contents of virtual "carts" on sites that have an ecommerce functionality.|
-|Functionality|These cookies are used to store preferences set by users such as account name, language, and location.|
-|Security|We use these cookies to help identify and prevent potential security risks.|
-|Analytics and Performance|Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
-|Third Party / Embedded Content|Our sites make use of different third party applications and services to enhance the experience of website visitors. These include: [Automattic](https://automattic.com/) (for features such as WooCommerce, Gravatar, Akismet and Jetpack), [Google](https://google.com/) (for analytics and advertising), social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from YouTube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.|
+**Strictly Necessary**  
+These cookies are essential for websites on our services to perform their basic functions. These include those required to allow registered users to authenticate and perform account related functions, as well as to save the contents of virtual "carts" on sites that have an ecommerce functionality.  
+**Functionality**  
+These cookies are used to store preferences set by users such as account name, language, and location.  
+**Security**  
+We use these cookies to help identify and prevent potential security risks.  
+**Analytics and Performance**  
+Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.  
+**Third Party / Embedded Content**  
+Our sites make use of different third party applications and services to enhance the experience of website visitors. These include: [Automattic](https://automattic.com/) (for features such as WooCommerce, Gravatar, Akismet and Jetpack), [Google](https://google.com/) (for analytics and advertising), social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from YouTube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.
 
 #### Cookies from Third Parties
 
