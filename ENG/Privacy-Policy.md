@@ -6,17 +6,17 @@ Below we explain how we collect, use, and share information about you, along wit
 ### Table of Contents
 
 1. [Definitions used in this policy](#definitions)
-2. [Principles we follow for processing Personal Data](#principles-we-follow-for-processing-personal-data)
-3. [Legal bases for processing Personal Data](#legal-bases-for-processig-personal-data)
-4. [Your rights regarding your Personal Data](#data-subjects-rights)
-5. [What information we ghater about you](#information-we-collect)
-6. [How and why we process Personal Data](#how-and-why-we-process-personal-data)
-7. [Sharing information](#sharing-information)
-8. [How long we keep information](#how-long-we-keep-information)
+2. [Principles we follow for processing Personal Data](#principles)
+3. [Legal bases for processing Personal Data](#legal)
+4. [Your rights regarding your Personal Data](#data)
+5. [What informations we gather about you](#informations)
+6. [How and why we process Personal Data](#process)
+7. [Sharing information](#share)
+8. [How long we keep information](#time)
 9. [Security](#security)
 10. [Choices](#choices)
-11. [Contact information](#contact-information)
-12. [Privacy Policy changes](#privacy-policy-changes)
+11. [Contact information](#contact)
+12. [Privacy Policy changes](#changes)
 
 ### Definitions
 
@@ -37,10 +37,10 @@ We process your Personal Data according to the following data protection princip
 *	We will do our best to ensure the accuracy of data.
 *	We will do our best to ensure the integrity and confidentiality of data.
 
-### Legal Bases for Processig Personal Data
+### Legal Bases for Processing Personal Data
 
 We process your Personal Data on the grounds that:
-*	The use is necessary in order to fulfill our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account (for example, in order to enable access to our website).
+*	The use is necessary in order to fulfil our commitments to you under our Terms of Service or other agreements with you or is necessary to administer your account (for example, in order to enable access to our website).
 *	The use is necessary for compliance with a legal obligation.
 *	The use is necessary in order to protect your vital interests or those of another person.
 *	We have a legitimate interest in using your information, for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services.
@@ -138,7 +138,7 @@ We generally discard information about you when we no longer need the informatio
 
 ### Security
 
-While no online service is 100% secure, we work very hard to protect information about you against unauthorized access, use, alteration, or destruction, and take reasonable measures to do so. We use safe protocols for communication and transferring data (such as HTTPS). We use anonymising and pseudonymising where suitable. We monitor our Services for potential vulnerabilities and attacks. We implement a robust encrypted backup strategy.
+While no online service is 100% secure, we work very hard to protect information about you against unauthorizes access, use, alteration, or destruction, and take reasonable measures to do so. We use safe protocols for communication and transferring data (such as HTTPS). We use anonymizing and pseudonymising where suitable. We monitor our Services for potential vulnerabilities and attacks. We implement a robust encrypted backup strategy.
 
 
 ### Choices
